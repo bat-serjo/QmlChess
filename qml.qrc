@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/black/bishop.svg</file>
+        <file>images/black/horse.svg</file>
+        <file>images/black/king.svg</file>
+        <file>images/black/pawn.svg</file>
+        <file>images/black/queen.svg</file>
+        <file>images/black/rook.svg</file>
+        <file>images/board/board.svg</file>
+        <file>images/white/bishop.svg</file>
+        <file>images/white/horse.svg</file>
+        <file>images/white/king.svg</file>
+        <file>images/white/pawn.svg</file>
+        <file>images/white/queen.svg</file>
+        <file>images/white/rook.svg</file>
+        <file>images/board/simple.svg</file>
+        <file>Logic.js</file>
+        <file>Figure.qml</file>
+    </qresource>
+</RCC>
